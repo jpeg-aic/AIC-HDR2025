@@ -33,8 +33,6 @@ Upon release, this repository will include:
 - Reconstructed perceptual scales in JND units  
 - Codec configurations and encoding recipes  
 
-Please ⭐ star or 👁 watch the repository to receive notifications when the dataset becomes available.
-
 ---
 
 ## Related Resources
