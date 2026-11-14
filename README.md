@@ -32,6 +32,18 @@ encoding/
   Rec2100PQ.icc       ICC profile used to tag the PNGs
 ```
 
+### Download HDR Study Images
+
+[![Download HDR Images](https://img.shields.io/badge/Download-HDR_Images-green?style=for-the-badge)](https://github.com/jpeg-aic/AIC-HDR2025/releases/download/v1.0/HDR_study_images.zip)
+
+The ZIP file (~600 MB) contains the HDR images used in the subjective quality assessment experiments.
+
+### Contents
+
+- **PTC Images:** Images used for Plain Triplet Comparison.
+- **BTC Images:** Images used for Boosted Triplet Comparison.
+- **Training Images:** Images used during the training sessions.
+
 ### File naming
 
 Images use the names from the subjective experiment:
