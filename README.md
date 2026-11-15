@@ -178,7 +178,6 @@ The source images carry their own terms, which also apply to the compressed vers
   publisher = {IEEE},
   doi       = {10.1109/QoMEX65720.2025.11219975}
 }
-}
 ```
 
 ## Contact
