@@ -168,13 +168,16 @@ The source images carry their own terms, which also apply to the compressed vers
 ## Citation
 
 ```bibtex
+
 @inproceedings{jenadeleh2025hdr,
-  title     = {Fine-Grained {HDR} Image Quality Assessment: From Noticeably Distorted to Very High Fidelity},
-  author    = {Jenadeleh, Mohsen and Sneyers, Jon and Lazzarotto, Davi and Mohammadi, Shima and Keller, Dominik and Boev, Atanas and Ramachandra Rao, Rakesh Rao and Pinheiro, Ant{\'o}nio and Richter, Thomas and Raake, Alexander and Ebrahimi, Touradj and Ascenso, Jo{\~a}o and Saupe, Dietmar},
-  booktitle = {International Conference on Quality of Multimedia Experience (QoMEX)},
+  author    = {Jenadeleh, Mohsen and Sneyers, Jon and Lazzarotto, Davi and Mohammadi, Shima and Keller, Dominik and Boev, Atanas and Rao, Rakesh Rao Ramachandra and Pinheiro, Ant{\'o}nio M. G. and Richter, Thomas and Raake, Alexander and Ebrahimi, Touradj and Ascenso, Jo{\~a}o and Saupe, Dietmar},
+  title     = {Fine-Grained {HDR} Image Quality Assessment From Noticeably Distorted to Very High Fidelity},
+  booktitle = {2025 17th International Conference on Quality of Multimedia Experience (QoMEX)},
+  pages     = {1--7},
   year      = {2025},
-  eprint    = {2506.12505},
-  archivePrefix = {arXiv}
+  publisher = {IEEE},
+  doi       = {10.1109/QoMEX65720.2025.11219975}
+}
 }
 ```
 
